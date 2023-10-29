@@ -208,7 +208,7 @@ Add the `@tailwind` directives for each of Tailwind’s layers to your `./styles
 
 Install dependencies
 
-<a href="https://github.com/SashenJayathilaka/AMAZON-Clone/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
+<a href="https://github.com/GunasekaranPS1/Amazon-Clone/blob/main/AMAZON-Clone%20App/package.json" target="_blank">🔶 Other Dependency Info</a>
 
 <!-- Run Locally -->
 
